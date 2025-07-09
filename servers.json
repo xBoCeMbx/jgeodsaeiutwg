@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Germany-01",
+    "ip": "123.45.67.89",
+    "port": 1080,
+    "login": "user1",
+    "password": "pass1"
+  },
+  {
+    "name": "USA-01",
+    "ip": "98.76.54.32",
+    "port": 1080,
+    "login": "user2",
+    "password": "pass2"
+  }
+] 
